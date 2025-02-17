@@ -1,0 +1,372 @@
+/* Android Compact - 1 */
+
+position: relative;
+width: 412px;
+height: 917px;
+
+background: #FFFFFF;
+
+
+/* Group 5 */
+
+position: absolute;
+width: 308px;
+height: 61px;
+left: 52px;
+top: 287px;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 308px;
+height: 61px;
+left: 52px;
+top: 287px;
+
+background: #D9D9D9;
+border: 3px solid #000000;
+border-radius: 30px;
+
+
+/* images 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 84px;
+top: 293px;
+
+background: url(images.png);
+border-right: 1px solid #000000;
+border-radius: 4px;
+
+
+/* USERNAME */
+
+position: absolute;
+width: 83px;
+height: 24px;
+left: calc(50% - 83px/2 + 6.5px);
+top: 306px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 308px;
+height: 61px;
+left: 52px;
+top: 378px;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 308px;
+height: 61px;
+left: 52px;
+top: 378px;
+
+background: #D9D9D9;
+border: 3px solid #000000;
+border-radius: 30px;
+
+
+/* Password */
+
+position: absolute;
+width: 77px;
+height: 24px;
+left: calc(50% - 77px/2 + 9.5px);
+top: 397px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* images (1) 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 49px;
+height: 49px;
+left: 85px;
+top: 384px;
+
+background: url(images (1).png);
+border: 1px solid #000000;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 130px;
+height: 47px;
+left: 143px;
+top: 524px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 130px;
+height: 47px;
+left: 143px;
+top: 524px;
+
+background: linear-gradient(270.4deg, #A1FC23 -6.07%, #253D04 111.22%);
+
+
+/* login */
+
+position: absolute;
+width: 59px;
+height: 36px;
+left: calc(50% - 59px/2 + 0.5px);
+top: 530px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* forgot your password? */
+
+position: absolute;
+width: 183px;
+height: 24px;
+left: 122px;
+top: 589px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+
+color: #B30C0C;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 412px;
+height: 275.5px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90.88deg, #780D54 0.66%, #FC6CED 99.2%);
+
+
+/* LOGIN */
+
+position: absolute;
+width: 251px;
+height: 50px;
+left: 82px;
+top: 138px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+
+color: #440735;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 412px;
+height: 112.25px;
+left: 0px;
+top: 804.29px;
+
+background: linear-gradient(90deg, #4B0A2E 0%, #DE52E6 98.6%);
+
+
+/* Group 9 */
+
+position: absolute;
+width: 146px;
+height: 38px;
+left: 31px;
+top: 748px;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 146px;
+height: 38px;
+left: 31px;
+top: 748px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #D9D9D9;
+
+
+/* Facebook */
+
+position: absolute;
+width: 80px;
+height: 24px;
+left: 72px;
+top: 755px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* images (2) 1 */
+
+position: absolute;
+width: 41px;
+height: 23px;
+left: 31px;
+top: 755px;
+
+background: url(images (2).png);
+
+
+/* Group 7 */
+
+position: absolute;
+width: 163px;
+height: 38px;
+left: 214px;
+top: 748px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #D9D9D9;
+
+
+/* Group 8 */
+
+position: absolute;
+width: 120.4px;
+height: 27.74px;
+left: calc(50% - 120.4px/2 + 81.2px);
+top: 753px;
+
+
+
+/* Github */
+
+position: absolute;
+width: 61.4px;
+height: 24px;
+left: 286px;
+top: 753px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* images (3) 1 */
+
+position: absolute;
+width: 27.47px;
+height: 27.47px;
+left: 227px;
+top: 753.26px;
+
+background: url(images (3).png);
+
+
+/* or Connect with me */
+
+position: absolute;
+width: 159px;
+height: 24px;
+left: 117px;
+top: 710px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+
+color: #0F0A9F;
+
