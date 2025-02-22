@@ -1,0 +1,1718 @@
+/* iPhone 16 Pro - 1 */
+
+position: relative;
+width: 402px;
+height: 874px;
+
+background: #33D137;
+
+
+/* MOBILE BANKING APP */
+
+position: absolute;
+width: 333px;
+height: 62px;
+left: 35px;
+top: 303px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 402px;
+height: 250.44px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90.17deg, #DD1FB4 -1.99%, #FF69E4 99.81%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 402px;
+height: 165.5px;
+left: 0px;
+top: 708.5px;
+
+background: linear-gradient(89.29deg, #DD1FB4 -3.51%, #FF69E4 99.05%);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 215px;
+height: 62px;
+left: 93px;
+top: 418px;
+
+background: #A5B439;
+
+
+/* LOGIN */
+
+position: absolute;
+width: 98px;
+height: 62px;
+left: 151px;
+top: 424px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* iPhone 16 Pro - 2 */
+
+position: relative;
+width: 402px;
+height: 874px;
+
+background: #33D137;
+
+
+/* LOGIN */
+
+position: absolute;
+width: 333px;
+height: 62px;
+left: calc(50% - 333px/2 + 0.5px);
+top: 255px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 402px;
+height: 165.5px;
+left: 0px;
+top: 708.5px;
+
+background: linear-gradient(89.29deg, #DD1FB4 -3.51%, #FF69E4 99.05%);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 271px;
+height: 61px;
+left: 63px;
+top: 362px;
+
+background: #D9D9D9;
+border-radius: 34px;
+
+
+/* USERNAME */
+
+position: absolute;
+width: 113px;
+height: 41px;
+left: 146px;
+top: 376px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 271px;
+height: 61px;
+left: 67px;
+top: 437px;
+
+background: #D9D9D9;
+border-radius: 28px;
+
+
+/* Account No */
+
+position: absolute;
+width: 108px;
+height: 41px;
+left: 155px;
+top: 446.5px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 132px;
+height: 47px;
+left: 140px;
+top: 581px;
+
+background: #D9CA24;
+border-radius: 12px;
+
+
+/* LOGIN */
+
+position: absolute;
+width: 65px;
+height: 41px;
+left: 173px;
+top: 584px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 41px;
+
+color: #000000;
+
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 170px;
+height: 27px;
+left: 52px;
+top: 523px;
+
+background: #D9D9D9;
+border-radius: 11px;
+
+
+/* Forgot Password */
+
+position: absolute;
+width: 143px;
+height: 39px;
+left: 65px;
+top: 517px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 118px;
+height: 27px;
+left: 248px;
+top: 522px;
+
+background: #D9D9D9;
+border-radius: 14px;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 198px;
+height: 69px;
+left: 100px;
+top: 656px;
+
+background: #D9D9D9;
+
+
+/* Register Now */
+
+position: absolute;
+width: 115px;
+height: 39px;
+left: 143px;
+top: 691px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Unlock user */
+
+position: absolute;
+width: 104px;
+height: 39px;
+left: 255px;
+top: 517px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 198px;
+height: 33px;
+left: 100px;
+top: 658px;
+
+background: #6598DB;
+
+
+/* New to online banking */
+
+position: absolute;
+width: 193px;
+height: 39px;
+left: 100px;
+top: 658px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 39px;
+/* identical to box height */
+
+color: #1E0202;
+
+
+
+/* iPhone 16 Pro - 8 */
+
+position: relative;
+width: 402px;
+height: 874px;
+
+background: #33D137;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 402px;
+height: 250.44px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90.17deg, #DD1FB4 -1.99%, #FF69E4 99.81%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 402px;
+height: 165.5px;
+left: 0px;
+top: 708.5px;
+
+background: linear-gradient(89.29deg, #DD1FB4 -3.51%, #FF69E4 99.05%);
+
+
+/* Account Detailes */
+
+position: absolute;
+width: 237px;
+height: 62px;
+left: 90px;
+top: 275px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* My Assets : */
+
+position: absolute;
+width: 141px;
+height: 42px;
+left: 47px;
+top: 359px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+
+color: #000000;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 141px;
+height: 43px;
+left: 47px;
+top: 563px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 141px;
+height: 43px;
+left: 47px;
+top: 631px;
+
+background: #D9D9D9;
+
+
+/* Transfer */
+
+position: absolute;
+width: 100px;
+height: 52px;
+left: 66px;
+top: 563px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Accounts */
+
+position: absolute;
+width: 108px;
+height: 52px;
+left: 66px;
+top: 631px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 140px;
+height: 43px;
+left: 235px;
+top: 563px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 140px;
+height: 43px;
+left: 235px;
+top: 631px;
+
+background: #D9D9D9;
+
+
+/* Logout */
+
+position: absolute;
+width: 81px;
+height: 52px;
+left: 268px;
+top: 563px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Pay bills */
+
+position: absolute;
+width: 97px;
+height: 52px;
+left: 268px;
+top: 631px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* 300000.00 */
+
+position: absolute;
+width: 128px;
+height: 52px;
+left: 224px;
+top: 362px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Component 1 */
+
+position: absolute;
+width: 295px;
+height: 28px;
+left: 47px;
+top: 71px;
+
+border-radius: 2px;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+left: 0%;
+right: 71.19%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* HOME */
+
+position: absolute;
+left: 7.46%;
+right: 78.98%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 76px;
+height: 28px;
+left: calc(50% - 76px/2 + 0.5px);
+top: calc(50% - 28px/2);
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Transfer */
+
+position: absolute;
+left: 40%;
+right: 42.03%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 23 */
+
+position: absolute;
+left: 76.95%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Histry */
+
+position: absolute;
+left: 82.37%;
+right: 4.75%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* iPhone 16 Pro - 4 */
+
+position: relative;
+width: 402px;
+height: 874px;
+
+background: #33D137;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 402px;
+height: 250.44px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90.17deg, #DD1FB4 -1.99%, #FF69E4 99.81%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 402px;
+height: 165.5px;
+left: 0px;
+top: 708.5px;
+
+background: linear-gradient(89.29deg, #DD1FB4 -3.51%, #FF69E4 99.05%);
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 148px;
+top: 710px;
+
+
+
+/* Transfer Option */
+
+position: absolute;
+width: 224px;
+height: 62px;
+left: 95px;
+top: 280px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 227px;
+height: 43px;
+left: 21px;
+top: 454px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 263px;
+height: 43px;
+left: 21px;
+top: 522px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 263px;
+height: 43px;
+left: 21px;
+top: 586px;
+
+background: #D9D9D9;
+
+
+/* Other Option */
+
+position: absolute;
+width: 215px;
+height: 51px;
+left: 33px;
+top: 586px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+
+color: #000000;
+
+
+
+/* Other Bank Payment */
+
+position: absolute;
+width: 239px;
+height: 52px;
+left: 28px;
+top: 522px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* inBank Payment */
+
+position: absolute;
+width: 188px;
+height: 52px;
+left: 34px;
+top: 454px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Component 1 */
+
+position: absolute;
+width: 295px;
+height: 28px;
+left: 53px;
+top: 72px;
+
+border-radius: 2px;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+left: 0%;
+right: 71.19%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* HOME */
+
+position: absolute;
+left: 7.46%;
+right: 78.98%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 76px;
+height: 28px;
+left: calc(50% - 76px/2 + 0.5px);
+top: calc(50% - 28px/2);
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Transfer */
+
+position: absolute;
+left: 40%;
+right: 42.03%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 23 */
+
+position: absolute;
+left: 76.95%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Histry */
+
+position: absolute;
+left: 82.37%;
+right: 4.75%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* iPhone 16 Pro - 9 */
+
+position: relative;
+width: 402px;
+height: 874px;
+
+background: #33D137;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 402px;
+height: 250.44px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90.17deg, #DD1FB4 -1.99%, #FF69E4 99.81%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 402px;
+height: 165.5px;
+left: 0px;
+top: 708.5px;
+
+background: linear-gradient(89.29deg, #DD1FB4 -3.51%, #FF69E4 99.05%);
+
+
+/* HISTORY */
+
+position: absolute;
+width: 147px;
+height: 39px;
+left: 148px;
+top: 294px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+
+color: #000000;
+
+
+
+/* images (4) 1 */
+
+position: absolute;
+width: 387px;
+height: 298px;
+left: 9px;
+top: 368px;
+
+background: url(images (4).png);
+
+
+/* Component 1 */
+
+position: absolute;
+width: 295px;
+height: 28px;
+left: 63px;
+top: 55px;
+
+border-radius: 2px;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+left: 0%;
+right: 71.19%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* HOME */
+
+position: absolute;
+left: 7.46%;
+right: 78.98%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 76px;
+height: 28px;
+left: calc(50% - 76px/2 + 0.5px);
+top: calc(50% - 28px/2);
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Transfer */
+
+position: absolute;
+left: 40%;
+right: 42.03%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 23 */
+
+position: absolute;
+left: 76.95%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Histry */
+
+position: absolute;
+left: 82.37%;
+right: 4.75%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* iPhone 16 Pro - 5 */
+
+position: relative;
+width: 402px;
+height: 874px;
+
+background: #33D137;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 402px;
+height: 250.44px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90.17deg, #DD1FB4 -1.99%, #FF69E4 99.81%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 402px;
+height: 165.5px;
+left: 0px;
+top: 708.5px;
+
+background: linear-gradient(89.29deg, #DD1FB4 -3.51%, #FF69E4 99.05%);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 63px;
+height: 43px;
+left: 21px;
+top: 454px;
+
+background: #D9D9D9;
+
+
+/* To: */
+
+position: absolute;
+width: 44px;
+height: 52px;
+left: 33px;
+top: 453px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 96px;
+height: 43px;
+left: 21px;
+top: 522px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 89px;
+height: 43px;
+left: 21px;
+top: 586px;
+
+background: #D9D9D9;
+
+
+/* From: */
+
+position: absolute;
+width: 215px;
+height: 51px;
+left: 33px;
+top: 586px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+
+color: #000000;
+
+
+
+/* Acc No: */
+
+position: absolute;
+width: 88px;
+height: 52px;
+left: 28px;
+top: 522px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* InBank Payment */
+
+position: absolute;
+width: 227px;
+height: 62px;
+left: 84px;
+top: 293px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 171px;
+height: 41px;
+left: 131px;
+top: 456px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 171px;
+height: 41px;
+left: 131px;
+top: 522px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 171px;
+height: 41px;
+left: 131px;
+top: 588px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 179px;
+height: 40px;
+left: 117px;
+top: 744px;
+
+background: #D9D9D9;
+
+
+/* Submit */
+
+position: absolute;
+width: 83px;
+height: 52px;
+left: 165px;
+top: 744px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Component 1 */
+
+position: absolute;
+width: 295px;
+height: 28px;
+left: 55px;
+top: 71px;
+
+border-radius: 2px;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+left: 0%;
+right: 71.19%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* HOME */
+
+position: absolute;
+left: 7.46%;
+right: 78.98%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 76px;
+height: 28px;
+left: calc(50% - 76px/2 + 0.5px);
+top: calc(50% - 28px/2);
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Transfer */
+
+position: absolute;
+left: 40%;
+right: 42.03%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 23 */
+
+position: absolute;
+left: 76.95%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Histry */
+
+position: absolute;
+left: 82.37%;
+right: 4.75%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* iPhone 16 Pro - 6 */
+
+position: relative;
+width: 402px;
+height: 874px;
+
+background: #33D137;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 402px;
+height: 250.44px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90.17deg, #DD1FB4 -1.99%, #FF69E4 99.81%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 402px;
+height: 165.5px;
+left: 0px;
+top: 708.5px;
+
+background: linear-gradient(89.29deg, #DD1FB4 -3.51%, #FF69E4 99.05%);
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 63px;
+height: 43px;
+left: 21px;
+top: 454px;
+
+background: #D9D9D9;
+
+
+/* To: */
+
+position: absolute;
+width: 44px;
+height: 52px;
+left: 33px;
+top: 453px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 96px;
+height: 43px;
+left: 21px;
+top: 522px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 89px;
+height: 43px;
+left: 21px;
+top: 586px;
+
+background: #D9D9D9;
+
+
+/* From: */
+
+position: absolute;
+width: 215px;
+height: 51px;
+left: 33px;
+top: 586px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+
+color: #000000;
+
+
+
+/* Acc No: */
+
+position: absolute;
+width: 88px;
+height: 52px;
+left: 28px;
+top: 522px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Other Bank Tranfer */
+
+position: absolute;
+width: 272px;
+height: 62px;
+left: 53px;
+top: 300px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 171px;
+height: 41px;
+left: 131px;
+top: 456px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 171px;
+height: 41px;
+left: 131px;
+top: 522px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 171px;
+height: 41px;
+left: 131px;
+top: 588px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 154px;
+height: 47px;
+left: 126px;
+top: 737px;
+
+background: #D9D9D9;
+
+
+/* Submit */
+
+position: absolute;
+width: 83px;
+height: 51px;
+left: 159px;
+top: 737px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 52px;
+
+color: #000000;
+
+
+
+/* Component 1 */
+
+position: absolute;
+width: 295px;
+height: 28px;
+left: 55px;
+top: 61px;
+
+border-radius: 2px;
+
+
+/* Rectangle 21 */
+
+position: absolute;
+left: 0%;
+right: 71.19%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* HOME */
+
+position: absolute;
+left: 7.46%;
+right: 78.98%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 22 */
+
+position: absolute;
+width: 76px;
+height: 28px;
+left: calc(50% - 76px/2 + 0.5px);
+top: calc(50% - 28px/2);
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Transfer */
+
+position: absolute;
+left: 40%;
+right: 42.03%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 23 */
+
+position: absolute;
+left: 76.95%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #A3EA64;
+border-radius: 8px;
+
+
+/* Histry */
+
+position: absolute;
+left: 82.37%;
+right: 4.75%;
+top: 21.43%;
+bottom: 21.43%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* iPhone 16 Pro - 7 */
+
+position: relative;
+width: 402px;
+height: 874px;
+
+background: #33D137;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 402px;
+height: 250.44px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(90.17deg, #DD1FB4 -1.99%, #FF69E4 99.81%);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 402px;
+height: 165.5px;
+left: 0px;
+top: 708.5px;
+
+background: linear-gradient(89.29deg, #DD1FB4 -3.51%, #FF69E4 99.05%);
+
+
+/* Transfer Successfull */
+
+position: absolute;
+width: 281px;
+height: 62px;
+left: 60px;
+top: 406px;
+
+font-family: 'Inknut Antiqua';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 62px;
+/* identical to box height */
+
+color: #000000;
+
